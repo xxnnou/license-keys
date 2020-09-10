@@ -1,0 +1,17 @@
+# https://appnee.com/vmware-vsphere/
+# ESXi License keys and features
+#
+# ESXi 6.x 
+License key:
+0H6A3-2UJ5P-38U89-0UAUM-9XU3L
+Features: VMware vSphere 6 Hypervisor
+#
+#
+License key:
+JV425-4H100-VZHH8-Q23NP-3A9PP
+4A4X0-69HE3-M8548-6L1QK-1Y240
+1A2JU-DEH12-48460-CT956-AC84D
+1C20K-4Z214-H84U1-T92EP-92838
+5C6TK-4C39J-48E00-PH0XH-828Q4
+MC28R-4L006-484D1-VV8NK-C7R58
+Features: VMware vSphere 6 Enterprise Plus
