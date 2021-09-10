@@ -1,0 +1,3 @@
+slmgr /ipk TM24T-X9RMF-VWXK6-X8JC9-BFGM2
+slmgr /skms kms.trendsec.com.kh
+slmgr /ato
